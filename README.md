@@ -6,7 +6,7 @@ ShelfLife is a PyQt-based desktop application for organizing and tracking person
 
 ## Screenshots
 
-![Screenshot of the app](./screenshot.png)
+![Screenshot of the app](./images/screenshot.png)
 
 ## Features
 
