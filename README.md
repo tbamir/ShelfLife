@@ -4,6 +4,9 @@
 
 ShelfLife is a PyQt-based desktop application for organizing and tracking personal book libraries. Easily search, add, and manage your book collection with intuitive features.
 
+## Screenshots
+
+![Screenshot of the app](./screenshot.png)
 
 ## Features
 
